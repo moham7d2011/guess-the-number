@@ -1,0 +1,6 @@
+# السماح لمحركات البحث بفهرسة كل الملفات
+User-agent: *
+Disallow:
+
+# منع ملف معين لو تحب
+# Disallow: /secret-file.html
